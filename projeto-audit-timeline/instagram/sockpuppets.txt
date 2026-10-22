@@ -1,0 +1,9 @@
+# Orientacao de cada sockpuppet:  nome  orientacao
+# neutro         = nao segue nem curte ninguem (so coleta)
+# esquerda       = segue todas as contas do orientacao.txt; curte so o PT (primeiras 50 contas do PT)
+# direita        = segue todas as contas do orientacao.txt; curte so o PL (primeiras 50 contas do PL)
+# balanceado     = segue e curte os dois lados
+# total esquerda = segue e curte apenas a esquerda
+# total direita  = segue e curte apenas a direita
+
+

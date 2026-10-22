@@ -1,0 +1,18 @@
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Sessões, perfis do navegador e dados de coleta
+navegador_dados_*/
+instagram_session_*.json
+snapshots/
+coleta.log
+*.log
+
+.env
+.env.*
