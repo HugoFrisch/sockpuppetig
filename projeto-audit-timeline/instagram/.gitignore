@@ -7,12 +7,21 @@ venv/
 .DS_Store
 Thumbs.db
 
-# Sessões, perfis do navegador e dados de coleta
+# Sessões e perfis do navegador (contêm login e cookies)
+sock_*/
 navegador_dados_*/
 instagram_session_*.json
+
+# Coletas e registros do experimento (dados de terceiros)
+feed_geral/
+feed_seguindo/
+interacoes/
 snapshots/
-coleta.log
 *.log
+
+# Arquivos de controle em tempo de execução
+STOP
+EXECUCAO.lock
 
 .env
 .env.*

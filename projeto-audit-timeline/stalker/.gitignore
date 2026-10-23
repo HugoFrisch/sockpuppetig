@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+
+# Resultados do stalker (dados de terceiros e estado interno)
+saida_*/
+STOP
+*.log
